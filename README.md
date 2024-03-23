@@ -71,7 +71,7 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 
   ## Tech Stack
 
-**Client:** React
+**Client:** React 18
 
-**Server:** Node, Git, Laravel
+**Server:** Node, Git, Laravel 10
 
