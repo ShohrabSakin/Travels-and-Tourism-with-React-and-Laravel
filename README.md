@@ -4,5 +4,13 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 
 ## Dependencies
 
-
+| App and Language        | Version                                                     |
+| :------:                | :------:                                                    |
+| Language Used           |PHP 7.x                                                      |
+| Database                | MySQL 5.2.1                                                 |
+| User Interface Design   | HTML 5, CSS 3, Bootstrap 5, jQuery 3, JavaScript [ ES-6 ]   |
+| XAMPP Version           | XAMPP 8.2.4                                                 |
+| Web Browser             | Google Chrome, Mozilla Firefox                              |
+| Front end               | React 18.2.0                                                |
+| Back end                | Laravel 10.3.2                                              |
 
