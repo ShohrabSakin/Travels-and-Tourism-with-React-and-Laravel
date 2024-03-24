@@ -14,7 +14,7 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 | Front end               | React 18.2.0                                                |
 | Back end                | Laravel 10.3.2                                              |
 
-
+## Some Project Screenshots
 
 
    ## How to run the project
