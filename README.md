@@ -18,11 +18,18 @@ The Travels & Tourism Management System is to manage the details of Customer, Pa
 
 ![Home Page](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/56fa4c3f-9b08-4dbd-8016-1493e7b49ff5)
 
+### Home Page
+
 ![Booking Form](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/39133807-cbf0-446e-bbfc-32f95c1a3e3f)
+
+### Booking Form
 
 ![Flight Schedule](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/1241c912-9f6a-4b44-b9cb-caed1030dd2b)
 
+### Flight Schedule
+
 ![Dashboard](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/dd67609e-8a56-4c7e-b085-6103f6e7e564)
+
 
 ![Booking Payment Entry](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/9b817058-3832-4f88-83e1-6892aa19063c)
 
